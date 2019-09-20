@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4e4057f0bf898edf8167",
-    "url": "/Mainosmaker/static/css/main.658f87f1.chunk.css"
+    "revision": "881426f1e714891e49c5",
+    "url": "/Mainosmaker/static/css/main.45f80993.chunk.css"
   },
   {
-    "revision": "4e4057f0bf898edf8167",
-    "url": "/Mainosmaker/static/js/main.4e4057f0.chunk.js"
+    "revision": "881426f1e714891e49c5",
+    "url": "/Mainosmaker/static/js/main.881426f1.chunk.js"
   },
   {
     "revision": "a28386935be018e238d3",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Mainosmaker/static/media/impact.8fc622c3.ttf"
   },
   {
-    "revision": "b5d7eb6241bb7e721ad1aec780222f5e",
+    "revision": "2c9cf756e353bdf1184a60804305b700",
     "url": "/Mainosmaker/index.html"
   }
 ];

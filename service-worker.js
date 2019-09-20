@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Mainosmaker/precache-manifest.f9af69f8a8bcb6354bfcb24a06d462a7.js"
+  "/Mainosmaker/precache-manifest.5df89b92e7b0bc9f9ea7c07cf2810111.js"
 );
 
 workbox.clientsClaim();
